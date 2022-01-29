@@ -43,7 +43,7 @@
  
                     <!-- Suite testng xml file to consider for test execution -->
                     <suiteXmlFiles>
-                        <suiteXmlFile>C:\SeleniumWorkspace\jenkins\src\test\java\TestNG1.xml</suiteXmlFile>
+                        <suiteXmlFile>C:\GitRepo\JenkeinsWithGIT\jenkins\src\test\java\TestNG1.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
